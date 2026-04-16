@@ -63,5 +63,6 @@ moduleNameMapper:
 
 
 clearMocks / restoreMocks:
- - when set to true, Jest automatically clears mock call history and restores spied-on originals between every test. Strongly recommended — prevents mock state from leaking across tests.
+ - when set to true, Jest automatically clears mock call history and restores spied-on originals between every test. 
+ - Strongly recommended, prevents mock state from leaking across tests.
 */

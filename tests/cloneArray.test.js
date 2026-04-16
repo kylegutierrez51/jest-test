@@ -1,4 +1,4 @@
-const cloneArray = require('./cloneArray');
+const cloneArray = require('../js/cloneArray');
 
 test('properly clones array', () => {
   const array = [1, 2, 3]
